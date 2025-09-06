@@ -2,7 +2,7 @@
 import { Suspense } from "react";
 import { useRoutes, Routes, Route } from "react-router-dom";
 import Home from "./components/home";
-import routes from './tempobook/tempobook';
+import routes from './tempobook';
 
 
 function App() {
